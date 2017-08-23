@@ -1,0 +1,14 @@
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\bin\Debug\ScopeExample.exe.config
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\bin\Debug\ScopeExample.exe
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\bin\Debug\ScopeExample.pdb
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeExample.csprojResolveAssemblyReference.cache
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeShow.baml
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeShow.g.cs
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeExample_MarkupCompile.cache
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeExample.g.resources
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeExample.Properties.Resources.resources
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeExample.csproj.GenerateResource.Cache
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeExample.exe
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeExample.pdb
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\bin\Debug\DynamicDataDisplay.dll
+C:\Users\10025\Desktop\ScopeExample\ScopeExample\obj\Debug\ScopeExample.示波器.resources
